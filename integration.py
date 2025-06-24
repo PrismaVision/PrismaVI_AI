@@ -1,6 +1,6 @@
 import random
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyBAocn-QIdMLH5baVfbuWtvwvXIk_jG8rE")
+genai.configure(api_key="-------")
 model = genai.GenerativeModel('gemini-1.5-flash')
 #Nome da cor
 #Código hexadecimal da cor
